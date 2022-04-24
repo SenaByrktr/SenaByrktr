@@ -1,8 +1,9 @@
-### Hi there, I am Sena Bayraktar 👋
+### Hi there 👋 
+I am Sena Bayraktar, a mathematical engineer living in Istanbul.
 
-- 🔭 I’m currently working on Data Science
-- 🌱 I’m currently learning Machine Learning
-- 📫 How to reach me: byrktrsena@gmail.com
+🔭 I’m currently working on Data Science
+🌱 I’m currently learning Machine Learning
+📫 How to reach me: byrktrsena@gmail.com
 
 
 <!--
